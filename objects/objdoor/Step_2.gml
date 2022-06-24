@@ -1,0 +1,1 @@
+x = objOffice.x + anchorX;

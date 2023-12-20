@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"bckOfficeRightLight","order":2,"path":"sprites/bckOfficeRightLight/bckOfficeRightLight.yy",},
+    {"name":"bckOfficeLeftLight","order":1,"path":"sprites/bckOfficeLeftLight/bckOfficeLeftLight.yy",},
+    {"name":"sprRightButtons","order":1,"path":"sprites/sprRightButtons/sprRightButtons.yy",},
+    {"name":"objDoor","order":3,"path":"objects/objDoor/objDoor.yy",},
+    {"name":"sprLeftDoor","order":2,"path":"sprites/sprLeftDoor/sprLeftDoor.yy",},
+    {"name":"objButtons","order":1,"path":"objects/objButtons/objButtons.yy",},
+  ],
+}
